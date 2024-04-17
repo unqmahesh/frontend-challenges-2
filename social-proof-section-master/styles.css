@@ -133,7 +133,7 @@ body{
 
     .testimonial{
         grid-template-columns: 40% 60%;
-        max-width: none;
+        max-width: 850px;
         width: 85%;
     }
 
@@ -166,6 +166,7 @@ body{
         align-self: flex-start;
         width: 80%;
     }
+
 
     .ratings__item--as-fc{
         align-self: center;
